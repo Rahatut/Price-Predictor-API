@@ -1,0 +1,1 @@
+["arrival", "day_of_week", "month", "day_of_year", "price_lag_1", "price_lag_7", "price_lag_30", "rolling_mean_7", "rolling_mean_30", "rolling_std_7", "momentum_7", "price_pct_change_7", "arrival_lag_1", "arrival_rolling_7"]
